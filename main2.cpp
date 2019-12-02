@@ -1,5 +1,14 @@
 #include <stdio.h>
 int main(){
-    printf("hi!");
+    int a=1;
+    if (a==1)
+    {
+        printf("bye!");
+    }else
+    {
+            printf("hi!");
+
+    }
+    
     return 0;
 }
