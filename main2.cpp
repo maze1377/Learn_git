@@ -3,10 +3,10 @@ int main(){
     int a=1;
     if (a==1)
     {
-        printf("bye!");
+        printf("bye!2");
     }else
     {
-            printf("hi!");
+            printf("hi!2");
 
     }
     
